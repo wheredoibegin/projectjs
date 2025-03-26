@@ -1,16 +1,16 @@
 // let number = 5;
 // const leftBorderWidth = 1;
 
-// number = 10;
-// console.log(number);
+number = 10;
+console.log(number);
 "use strict";
 
 // alert('Hello');
 // const result = confirm("Are you here?");
 
-//для чисел +
-// const answer = +prompt("Вам есть 18?", "18");
-// console.log(answer + 5);
+для чисел +
+const answer = +prompt("Вам есть 18?", "18");
+console.log(answer + 5);
 
 // const answers = [];
 
