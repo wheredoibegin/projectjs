@@ -71,3 +71,4 @@ if(hamburger === 3 && cola === 1 && fries) {
     console.log("Мы уходим")
 }
 
+fgfdg
